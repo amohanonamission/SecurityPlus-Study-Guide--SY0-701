@@ -1,2 +1,2 @@
 
-These are the resources I installed with ChatGPT, 
+These are the resources I prepared with ChatGPT to study for my exam
