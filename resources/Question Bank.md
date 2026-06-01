@@ -1,7 +1,28 @@
 
 ## **SECURITY+ PRACTICE QUESTIONS**
-### Here is a list of — **50 Security+-style questions** mixing scenario-based, PBQ-style, and recall that I used for my preparation.
-( Questions are formed with the help of ChatGPT. Once you go through these, you can paste these into a prompt and ask any LLM to generate more of them. )
+
+This section contains a curated set of **50 practice questions** designed to simulate the style, scope, and difficulty of the **Comptia Security+** exam.
+
+These questions focus on:
+
+- Concept clarity
+- Mixture of scenario-based, PBQ-style, and recall that I used for my preparation.
+- Understanding why an answer is correct (and why others are not)
+
+The goal is not just memorization, but **pattern recognition**, which is key to passing AZ-900.
+
+---
+
+## How to Use
+
+- Attempt questions without looking at answers first  
+- Review explanations carefully  
+- Identify weak areas and revise those topics  
+- Repeat until you can confidently recognize patterns  
+
+---
+
+> Tip: Questions are formed with the help of ChatGPT. Once you go through these, you can paste these into a prompt and ask any LLM to generate more of them.
 
 **Answer key is at the end.**
 
