@@ -35,7 +35,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 | Video | [Professor Messer Security+ Playlist](https://youtu.be/KiEptGbnEBc?si=n93Gpmb_cbOGJjwO) | Full coverage of exam objectives |
 | Practice Exams | [Udemy Course 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/) | Simulated exam experience |
 | Practice Exams | [Udemy Course 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/) | Extra practice & variety |
-| Online Questions | [ExamCompass]([https://www.examcompass.com/comptia/security-plus-practice-questions](https://www.examcompass.com/comptia/security-plus-certification)) | Quick topic-based quizzes |
+| Online Questions | [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification) | Quick topic-based quizzes |
 | AI Quizzing | ChatGPT/OpenAI tools | Generate practice questions, explain concepts, simulate PBQs |
 | Mobile Apps | iOS Security+ quiz apps | Daily on-the-go practice |
 
