@@ -9,7 +9,7 @@ These questions focus on:
 - Mixture of scenario-based, PBQ-style, and recall that I used for my preparation.
 - Understanding why an answer is correct (and why others are not)
 
-The goal is not just memorization, but **pattern recognition**, which is key to passing AZ-900.
+The goal is not just memorization, but **pattern recognition**, which is key to passing Security+ SY0-701.
 
 ---
 
