@@ -17,6 +17,15 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 ---
 
+## My Result
+
+- Exam: CompTIA Security+ (SY0-701)
+- Preparation Time: 20 Days
+- Background: Cybersecurity graduate with previous internship and security/compliance experience
+- Outcome: Passed on December 12, 2025
+
+---
+
 ## How to Use This Repo
 1. **Watch Videos** – Start with Professor Messer’s full Security+ playlist.  
 2. **Check Exam Objectives** – Make a checklist to track progress.  
