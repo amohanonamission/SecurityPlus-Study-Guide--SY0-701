@@ -15,8 +15,6 @@ I passed CompTIA Security+ (SY0-701) in **20 days** by following a structured st
 
 This repo provides a concise roadmap, resource links, and guidance for anyone starting from zero.
 
----
-
 ## My Result
 
 - Exam: CompTIA Security+ (SY0-701)
