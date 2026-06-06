@@ -15,6 +15,12 @@ I passed CompTIA Security+ (SY0-701) in **20 days** by following a structured st
 
 This repo provides a concise roadmap, resource links, and guidance for anyone starting from zero.
 
+---
+
+#### License
+- Free for learners. No commercial use.  
+- Feel free to fork, add notes, or improve resources.
+
 ## My Result
 
 - Exam: CompTIA Security+ (SY0-701)
@@ -65,10 +71,3 @@ If you are completely new to cybersecurity, consider extending your preparation 
 
 > **REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. 
 >                                        ALL THE BEST ON YOUR JOURNEY!
-
----
-
-#### License
-- Free for learners. No commercial use.  
-- Feel free to fork, add notes, or improve resources.
-
