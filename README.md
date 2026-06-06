@@ -15,14 +15,13 @@ I passed CompTIA Security+ (SY0-701) in **20 days** by following a structured st
 
 This repo provides a concise roadmap, resource links, and guidance for anyone starting from zero.
 
----
-
 ## My Result
 
 - Exam: CompTIA Security+ (SY0-701)
-- Preparation Time: 20 Days
-- Background: Cybersecurity graduate with previous internship and security/compliance experience
 - Outcome: Passed on December 12, 2025
+- Preparation Time: 20 Days @ 2-3 hours a day
+- Score: 88% - (792/900)
+- Background: Cybersecurity graduate with previous internship and security/compliance experience
 
 ---
 
@@ -45,7 +44,7 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 | Practice Exams | [Udemy Course 1](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams/) | Simulated exam experience |
 | Practice Exams | [Udemy Course 2](https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/) | Extra practice & variety |
 | Online Questions | [ExamCompass](https://www.examcompass.com/comptia/security-plus-certification) | Quick topic-based quizzes |
-| AI Quizzing | ChatGPT/OpenAI tools | Generate practice questions, explain concepts, simulate PBQs |
+| AI Quizzing | [ChatGPT](https://chatgpt.com/) / Other AI tools | Generate practice questions, explain concepts, simulate PBQs |
 | Mobile Apps | iOS Security+ quiz apps | Daily on-the-go practice |
 
 ---
