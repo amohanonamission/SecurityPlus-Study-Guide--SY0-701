@@ -66,6 +66,7 @@ If you are completely new to cybersecurity, consider extending your preparation 
 > **REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. 
 >                                        ALL THE BEST ON YOUR JOURNEY!
 
+---
 
 ### License
 - Free for learners. No commercial use.  
