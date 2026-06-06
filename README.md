@@ -61,11 +61,13 @@ If you are completely new to cybersecurity, consider extending your preparation 
 
 ---
 
-## License
-- Free for learners. No commercial use.  
-- Feel free to fork, add notes, or improve resources.
-
 ## Final Thought
 
 > **REMEMBER:** SECURITY IS A MINDSET, A WAY OF LIFE. YOU HAVE TO LIVE IT TO LEARN IT AND TO BECOME IT. 
 >                                        ALL THE BEST ON YOUR JOURNEY!
+
+
+## License
+- Free for learners. No commercial use.  
+- Feel free to fork, add notes, or improve resources.
+
