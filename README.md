@@ -48,6 +48,19 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 ---
 
+## ⚠️ Important Note
+
+This study plan helped me pass in 20 days.
+
+However, I already had:
+- A cybersecurity degree
+- Previous cybersecurity internship experience
+- Compliance experience in the financial sector
+
+If you are completely new to cybersecurity, consider extending your preparation timeline to 4–8 weeks and spending additional time on labs and fundamentals.
+
+---
+
 ## License
 - Free for learners. No commercial use.  
 - Feel free to fork, add notes, or improve resources.
