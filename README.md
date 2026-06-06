@@ -67,7 +67,7 @@ If you are completely new to cybersecurity, consider extending your preparation 
 >                                        ALL THE BEST ON YOUR JOURNEY!
 
 
-## License
+### License
 - Free for learners. No commercial use.  
 - Feel free to fork, add notes, or improve resources.
 
