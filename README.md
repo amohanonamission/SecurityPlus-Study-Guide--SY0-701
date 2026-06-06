@@ -17,10 +17,6 @@ This repo provides a concise roadmap, resource links, and guidance for anyone st
 
 ---
 
-#### License
-- Free for learners. No commercial use.  
-- Feel free to fork, add notes, or improve resources.
-
 ## My Result
 
 - Exam: CompTIA Security+ (SY0-701)
@@ -66,6 +62,10 @@ However, I already had:
 If you are completely new to cybersecurity, consider extending your preparation timeline to 4–8 weeks and spending additional time on labs and fundamentals.
 
 ---
+
+#### License
+- Free for learners. No commercial use.  
+- Feel free to fork, add notes, or improve resources.
 
 ## Final Thought
 
