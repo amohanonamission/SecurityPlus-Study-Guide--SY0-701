@@ -101,7 +101,17 @@
 
 ---
 
-## **7. Contributing**
+## **7. Exam Day Tips**
+
+- Read questions carefully
+- Eliminate obviously incorrect answers
+- Flag difficult questions and return later
+- Pay attention to keywords
+- Stay calm during PBQs
+
+---
+
+## **8. Contributing**
 
 - Pull requests for additional labs, resources, and practice questions are welcome.
 - Share your tips on AI usage, mobile quizzing, or lab setups.
