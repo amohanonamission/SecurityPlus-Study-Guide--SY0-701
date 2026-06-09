@@ -64,6 +64,14 @@ If you are completely new to cybersecurity, consider extending your preparation 
 - Free for learners. No commercial use.  
 - Feel free to fork, add notes, or improve resources.
 
+### Future Improvements
+
+- Additional PBQ examples
+- Objective-by-objective study notes
+- Lab walkthroughs
+- More practice questions
+- Community contributions
+
 ---
 
 ## Final Thought
