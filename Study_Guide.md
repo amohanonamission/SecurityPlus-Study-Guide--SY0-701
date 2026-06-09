@@ -99,7 +99,7 @@
   - Explain concepts you forget in simple terms
   - Practice 10–20 questions daily in timed mode
 
-### Example Prompts -
+#### Example Prompts -
 
 1. Generate 10 Security+ questions on PKI with explanations.
 2. Act as a Security+ instructor and quiz me on malware attacks.
