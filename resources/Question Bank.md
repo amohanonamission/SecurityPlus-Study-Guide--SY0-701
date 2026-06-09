@@ -30,10 +30,7 @@ Read slowly. Treat each one like an exam moment. Do deep research on any questio
 
 ---
 
-### **1.**
-
-A security analyst detects multiple failed login attempts from different IPs targeting the same user account within seconds.
-What attack is most likely happening?
+### **1. A security analyst detects multiple failed login attempts from different IPs targeting the same user account within seconds. What attack is most likely happening? **
 A. Password spraying
 B. Brute force
 C. Credential stuffing
