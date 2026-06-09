@@ -99,6 +99,12 @@
   - Explain concepts you forget in simple terms
   - Practice 10–20 questions daily in timed mode
 
+### Example Prompts -
+
+1. Generate 10 Security+ questions on PKI with explanations.
+2. Act as a Security+ instructor and quiz me on malware attacks.
+3. Create a PBQ scenario involving firewall rules.
+
 ---
 
 ## **7. Exam Day Tips**
